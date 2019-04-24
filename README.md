@@ -8,3 +8,8 @@ The FTP directory is at http://www2.census.gov/census_2010/01-Redistricting_File
 
 ## Structure
 3 Segments, within 1 ZIP file per state.
+The files are as follows:
+- Geographic Header file
+- File01 (Tables P1 and P2)
+- File02 (Tables P3, P4 and H1)
+
